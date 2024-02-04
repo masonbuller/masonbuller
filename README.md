@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Mason! <br/><a href="https://www.linkedin.com/in/masonbuller/">Software Developer</a></h1>
 
-<!--
-**masonbuller/masonbuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Python</b>
+  - [Crime Rate Data Analysis](https://github.com/masonbuller/CrimeRateDataAnalysis)
+- <b>JavaScript</b>
+  - [Customer Registration Form](https://github.com/masonbuller/CustomerRegistrationForm)
+- <b>SQL</b>
+  - [Music Artist Data](https://github.com/masonbuller/MusicArtistData)
+- <b>C# (.NET Desktop Applications)</b>
+  - [NFS Game Navigator](https://github.com/masonbuller/NFSGameNavigator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Mason Buller | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/masonbuller/
