@@ -10,6 +10,11 @@
   - [Music Artist Data](https://github.com/masonbuller/MusicArtistData)
 - <b>C# (.NET Desktop Applications)</b>
   - [NFS Game Navigator](https://github.com/masonbuller/NFSGameNavigator)
+- <b>Java</b>
+  - [Minecraft Block Explosion](https://github.com/masonbuller/MinecraftBlockExplosion)
+  - [Minecraft Item Randomizer](https://github.com/masonbuller/MinecraftRandomItem)
+  - [Minecraft Hotbar Item Remover](https://github.com/masonbuller/MinecraftHotbarRemover)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
