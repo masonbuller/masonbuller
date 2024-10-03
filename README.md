@@ -13,7 +13,7 @@
 - <b>Java</b>
   - [Minecraft Block Explosion](https://github.com/masonbuller/MinecraftBlockExplosion)
   - [Minecraft Item Randomizer](https://github.com/masonbuller/MinecraftRandomItem)
-  - [Minecraft Hotbar Item Remover](https://github.com/masonbuller/MinecraftHotbarRemover)
+  - [Favorite Teams](https://github.com/masonbuller/FavoriteTeams/tree/main)
   
 
 <h2> 🤳 Connect with me:</h2>
