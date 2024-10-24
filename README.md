@@ -4,6 +4,7 @@
 
 - <b>Java</b>
   - [Favorite Teams](https://github.com/masonbuller/FavoriteTeams/tree/main)
+  - [Minecraft Item Randomizer](https://github.com/masonbuller/MinecraftRandomItem)
 - <b>Python</b>
   - [Crime Rate Data Analysis](https://github.com/masonbuller/CrimeRateDataAnalysis)
 - <b>JavaScript</b>
