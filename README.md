@@ -4,16 +4,12 @@
 
 - <b>Java</b>
   - [Favorite Teams](https://github.com/masonbuller/FavoriteTeams/tree/main)
-  - [Minecraft Block Explosion](https://github.com/masonbuller/MinecraftBlockExplosion)
-  - [Minecraft Item Randomizer](https://github.com/masonbuller/MinecraftRandomItem)
 - <b>Python</b>
   - [Crime Rate Data Analysis](https://github.com/masonbuller/CrimeRateDataAnalysis)
 - <b>JavaScript</b>
   - [Customer Registration Form](https://github.com/masonbuller/CustomerRegistrationForm)
 - <b>SQL</b>
   - [Music Artist Data](https://github.com/masonbuller/MusicArtistData)
-- <b>C# (.NET Desktop Applications)</b>
-  - [NFS Game Navigator](https://github.com/masonbuller/NFSGameNavigator)
 
   
 
